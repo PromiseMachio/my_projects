@@ -1,4 +1,4 @@
-wwwwwwwwwclass Animal{
+class Animal{
     public void animalSound(){
 	System.out.println("Animal make sounds");
     }
